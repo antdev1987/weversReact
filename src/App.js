@@ -70,7 +70,7 @@ function App() {
           <ul className="nav__container">
             {/* box */}
             <li className="nav__links-box">
-              <a href="#" className="nav__links">
+              <a href="#nosotros" className="nav__links">
                 {' '}
                 nosotros{' '}
               </a>
